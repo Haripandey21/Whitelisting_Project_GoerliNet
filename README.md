@@ -1,6 +1,6 @@
 <h2 align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?color=55f89&lines=Welcome+to+whitelisting+project+;Upgraded+to+Goerli+Testnet+!&center=true&size=23" />
+    <img src="https://readme-typing-svg.herokuapp.com?color=55f89&lines=Welcome+to+whitelisting+project+;Upgraded+to+Goerli+Testnet+!&center=true&size=21" />
   </a>
 </h2>
 ## Whitelisting_Project_GoerliNet :-
